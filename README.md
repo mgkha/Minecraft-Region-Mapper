@@ -1,1 +1,1 @@
-"# Minecraft-Region-Mapper" 
+# Minecraft-Region-Mapper
